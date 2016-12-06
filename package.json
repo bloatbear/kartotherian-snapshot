@@ -25,7 +25,7 @@
     "domain-validator": "^0.0.3",
     "mwapi": "git+https://github.com/nyurik/mwapi.git",
     "underscore": "^1.8.3",
-    "geojson-mapnikify": "git@github.com:bloatbear/geojson-mapnikify.git",
+    "geojson-mapnikify": "git@176.9.154.86:repo/geojson-mapnikify.git",
     "tilelive-overlay": "^0.7.0"
   },
   "optionalDependencies": {
